@@ -1,0 +1,78 @@
+
+LOCATION -1
+0
+That way is blocked.
+That way is blocked.
+END
+
+LOCATION 1
+0
+You are on the forth floor of the UTM Library, there is an stair to the third floor to the South.
+You are on the forth floor of the UTM Library, there are windows on the three sides of the floor,there is a stair to the third floor to the South.
+END
+
+LOCATION 3
+0
+You are on the forth floor of DH building. It's a computer lab. There is a stair to the third floor to the South.
+You are on the forth floor of DH building. You are familiar with this place because it's a computer lab with many computers. There is a stair to the third floor to the South.
+END
+
+LOCATION 5
+0
+You are on the third floor of UTM Library, there is an stair to the second floor to the South.
+You are on the third floor of the UTM Library, there are windows on the two sides of the floor on west and east side,there is a stair to the second floor to the South. You see there are three people on this floor, they look like doing a project as a group. They don't realize you are on this floor.
+END
+
+LOCATION 7
+0
+You are on the third floor of DH building. There is a stair to the second floor to the South. There is a stair to the forth floor to the North.
+You are on the third floor of DH building. Just like the second floor, the scenery is the same as the second floor, with study rooms and students. There is a stair to the second floor to the South. There is a stair to the forth floor to the North.
+END
+
+LOCATION 9
+0
+You are on the second floor of UTM Library, there is an stair to the first floor to the South.
+You are on the second floor of the UTM Library, there are windows on the two sides of the floor on west and east side,there is a stair to the first floor to the South. Second floor is very quite because it is silence study zone, you can't even hear any voice on this floor.
+END
+
+LOCATION 10
+0
+You are in the washroom. Exit is to the South
+You are in the washroom, it's smell very bad here, maybe someone is pooping. You can go south to get out from this hell.
+END
+
+LOCATION 11
+0
+You are on the second floor of DH building. There is a stair to the first floor to the South,a stair to the third floor to the North, a study room to the east.
+You are on the second floor of DH building. There are many study rooms and chairs. Some students are studying here. There is a stair to the first floor to the South. There is a stair to the third floor to the North,,a stair to the third floor to the North, a study room to the east.
+END
+
+LOCATION 12
+0
+You are in a study room.
+You are in a CS program study room, only CS student allow to go inside. You find a brooch on the desk, it looks so cool, maybe it will bring you good luck on the exam. You can go south, there is a stair to first floor. You can use the side door on the first floor to enter the exam room.
+END
+
+LOCATION 13
+0
+You are on the first floor of the UTM Library. There is a walkway leading to DH building to the East, head back to the library to the North.
+You are on the first floor of the UTM Library. There are many tables and chairs scattered around, an librarian is looking bored. There is a walkway leading to DH building to the East, head back to the library to the North.
+END
+
+LOCATION 14
+0
+You in a walkway leading to DH building. There is the DH building to the East. The UTM Library to the west.
+You in a walkway leading to DH building. It's getting chilly outside, there doesn't seem to be anything of interest here. There is the DH building to the East. The UTM Library to the west.
+END
+
+LOCATION 15
+0
+You are the first floor of DH building. There is a walkway leading to UTM Library to the West. The exam room to the south.
+You are the first floor of DH building. There is a food court here. You remembered studying here a few hours ago with your friends There is a walkway leading to UTM Library to the West. The exam room to the south.
+END
+
+LOCATION 16
+0
+You are in the exam room. Exam is going to start in five minutes.
+You are in the exam room, you ask yourself are you ready for exam? You drop everything on table and get ready to face this final 'boss'.
+END

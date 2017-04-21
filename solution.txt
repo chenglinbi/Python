@@ -1,0 +1,16 @@
+go south
+go south
+go south
+look
+go east
+go east
+look
+go north
+go north
+go north
+look
+go south
+go south
+go south
+go east
+drop
